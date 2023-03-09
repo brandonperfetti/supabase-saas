@@ -41,7 +41,7 @@ Auth is currently routed through github.
 Clone this repo:
 
 ```bash
-https://github.com/brandonperfetti/supabase-saas.git
+git clone git@github.com:brandonperfetti/supabase-saas.git
 ```
 
 Install dependencies:
