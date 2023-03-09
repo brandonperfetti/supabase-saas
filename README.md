@@ -25,3 +25,33 @@ pnpm create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+## Detail
+
+This Project is a product of [this](https://egghead.io/courses/build-a-saas-product-with-next-js-supabase-and-stripe-61f2bc20) egghead.io course.
+
+Auth is currently routed through github.
+
+## Example
+
+[Supabase SaaS App](https://supabase-saas-seven.vercel.app/)
+
+## Installation Instructions
+
+Clone this repo:
+
+```bash
+https://github.com/brandonperfetti/supabase-saas.git
+```
+
+Install dependencies:
+
+```bash
+yarn
+```
+
+Start the app:
+
+```bash
+yarn dev
+```
